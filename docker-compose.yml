@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    volumes:
+      - .:/crawl.py
+      - .:/app.py
+    ports:
+      - 8000:8000
+

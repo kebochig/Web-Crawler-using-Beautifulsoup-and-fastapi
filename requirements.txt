@@ -1,0 +1,11 @@
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+asyncio==3.4.3
+beautifulsoup4
+datetime
+fastapi==0.70.0
+pandas==1.2.4
+pysqlite3==0.4.6
+sqlalchemy
+uvicorn==0.15.0
+PyYAML==5.4.1
