@@ -13,5 +13,5 @@ docker-compose up --build
 ## Usage
 
 Once the app is started, the web scraping commences; once that is concluded, the APIs will ready for use. The documentation can be viewed using the Swagger UI url:
- http://{HOST}:{PORT}/docs . For example:  http://0.0.0.0:8000/docs
+ http://{HOST}:{PORT}/docs . For example:  http://0.0.0.0:8000/docs (as is the default for the app)
 
